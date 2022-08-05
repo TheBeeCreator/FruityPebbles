@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fruitypebblemod:raw_mysterious_chunk"
+  },
+  "result": "fruitypebblemod:mysterious_ingot",
+  "experience": 0.0,
+  "cookingtime": 100
+}

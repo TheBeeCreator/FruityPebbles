@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "fruitypebblemod:mysterious_ore_overworld",
+    "fruitypebblemod:mysterious_ore_nether",
+    "fruitypebblemod:mysterious_ore_end",
+    "fruitypebblemod:mysterious_ore_deepslate"
+  ]
+}
